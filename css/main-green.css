@@ -2560,3 +2560,8 @@ blockquote footer, blockquote small, blockquote .small {
 }
 
 
+.projects-container {
+    background-color: #a0b3f93d;
+    padding: 20px;
+}
+
