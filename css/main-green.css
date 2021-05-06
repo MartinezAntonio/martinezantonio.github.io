@@ -2565,3 +2565,6 @@ blockquote footer, blockquote small, blockquote .small {
     padding: 20px;
 }
 
+span.item-small.time-work {
+  color: #7038ff;
+}
